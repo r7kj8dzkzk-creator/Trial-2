@@ -29,19 +29,19 @@ window.ANNIVERSARY_CONFIG = {
 
   // ───────── 3. OPENING SCREEN ─────────
   welcome: {
-    eyebrow: `Nine Months, One Piece at a Time`,
-    heading: `Happy 9 months, .`,
+    eyebrow: `Nine Months = 273 days = 6552 hours`,
+    heading: `Happy 9 months,Meghu .`,
     body: `Nine months of memories, stupid jokes, little moments, and things I wish I could bottle up forever.`,
     followUp: `I have something for you. But first, you'll have to use that puzzle solving brain of yours.`,
-    button: `Let's begin ❤️`,
+    button: `Let's go ❤️`,
   },
 
   // ───────── 4. PUZZLE ─────────
   puzzle: {
-    defaultPieces: 24,   // 12, 24 or 36
+    defaultPieces: 72,   // 12, 24, 36 or 72
     prompt: `Drag each piece to where it belongs.`,
     messages: {
-      25: `Look at us go.`,
+      25: `Look at you go.`,
       50: `Halfway to your surprise.`,
       75: `Almost there, coconut.`,
       100: `And there we are. ❤️`,
@@ -61,18 +61,21 @@ window.ANNIVERSARY_CONFIG = {
 
   // ───────── 6. ✎✎✎ YOUR LETTER ✎✎✎ ─────────
   letter: {
-    greeting: `My princess,`,
+    greeting: `To My coconut,`,
 
-    body: `This is a placeholder letter. The real one is waiting for you to write it, so say everything here that you never quite find the words for out loud.
-
-Nine months. I still say it out loud sometimes just to hear how it sounds, because it feels like so much longer and so much shorter at the same time.
-
+    body: `Can't believe that i haven't found you a better nickname than 'coconut'. I like it though. Anyways i always felt i'm more expressive and vulnerable when i put it down on a paper because neither the pen nor the paper would judge me, hence this letter. As you know I have vulnerability issues and knowing this letter is a proof of me being one and its existence makes me uneasy BUT knowing it's gonna reach you oddly comforts me.
+Still surprising that I'm in a relationship with someone for this long and this wouldn't have happened if I never felt like changing my ways just to be better for YOU. I gotta say you helped me heal myself in some ways. The kindest thing a stranger has done to me was giving me your Instagram and there wasn't a single day I wasn't grateful for her.
+I like how you are always curious to get to know me more ever since we first texted, funny comebacks ( can we agree that some of mine rubbed off onto you?), talk to me every night no matter how tiring your day was or how busy you can get, considerate, make me part of your day even when we are far apart and shown interest in things that I like even though it's hard for you. Did I tell you how uninhibited and cute you are when you're drunk? So adorable.
+I miss the spontaneity we had when we both weren't at our homes.. those random calls and going to bed being on phone, ordering food for each other, etc. Wish I could go back in time to relive it once again.
+It might be difficult for you to do it often but when you ask or demand me for small things I love it and secretly wish you do it more and tried actively putting me inside your world 
+Deep down i don't know but I'm scared that you'll think this is all too much and won't reciprocate much
+I know things aren't all lovey-dovey right now between us but I have the confidence we can get through this "down" phase of Us.
 Thank you for the stupid jokes, the late-night calls, the tiny moments nobody else would notice, and for being the person I want to tell everything to.
-
-I don't know exactly what the next chapter looks like. I just know I want you in it, in every single one.`,
+I don't know exactly what the next chapter looks like. I just know I want you in it, in every single one.
+If i could go back in time to the beginning, i would do it all over again including the fights and misunderstandings`,
 
     signoff: `Yours loving,`,
-    signature: `[Sir Honorary Knight ]`,
+    signature: `[Sir Honorary Knight,Monkey ]`,
 
     readAgainButton: `Read it again`,
     continueButton: `Continue ❤️`,
