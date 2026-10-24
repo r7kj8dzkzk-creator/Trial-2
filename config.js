@@ -32,7 +32,7 @@ window.ANNIVERSARY_CONFIG = {
     eyebrow: `Nine Months, One Piece at a Time`,
     heading: `Happy 9 months, Meghu.`,
     body: `Nine months of memories, stupid jokes, little moments, and things I wish I could bottle up forever.`,
-    followUp: `I have something for you. But first, you'll have to use that puzzle wolving brain of yours.`,
+    followUp: `I have something for you. But first, you'll have to use that puzzle solving brain of yours.`,
     button: `Let's begin ❤️`,
   },
 
@@ -43,19 +43,19 @@ window.ANNIVERSARY_CONFIG = {
     messages: {
       25: `Look at us go.`,
       50: `Halfway to your surprise.`,
-      75: `Almost there, love.`,
+      75: `Almost there, coconut.`,
       100: `And there we are. ❤️`,
     },
   },
 
   // ───────── 5. AFTER THE PUZZLE ─────────
   completion: {
-    heading: `You found your way back to us. ❤️`,
-    button: `Unlock your letter 💌`,
+    heading: `dont you think you would've finished it quicker with me? ❤️`,
+    button: `a lil special something for my special girl 💌`,
   },
 
   envelope: {
-    caption: `A little something from me to you.`,
+    caption: ` Hopw you like it <3`,
     tapHint: `Tap to open`,
   },
 
@@ -71,8 +71,8 @@ Thank you for the stupid jokes, the late-night calls, the tiny moments nobody el
 
 I don't know exactly what the next chapter looks like. I just know I want you in it, in every single one.`,
 
-    signoff: `Forever yours,`,
-    signature: `[Your name]`,
+    signoff: `Yours loving,`,
+    signature: `[Sir Honorary Knight Vijwal]`,
 
     readAgainButton: `Read it again`,
     continueButton: `Continue ❤️`,
@@ -80,7 +80,7 @@ I don't know exactly what the next chapter looks like. I just know I want you in
 
   // ───────── 7. LAST SCREEN ─────────
   final: {
-    heading: `End of this little surprise. Beginning of our next chapter.`,
+    heading: `set the bar too hugh already for 9 months, pls keep your expectations low for one year.`,
     readLetterButton: `Read the letter again`,
     replayButton: `Replay the experience`,
   },
