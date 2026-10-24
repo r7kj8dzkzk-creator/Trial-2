@@ -30,9 +30,9 @@ window.ANNIVERSARY_CONFIG = {
   // ───────── 3. OPENING SCREEN ─────────
   welcome: {
     eyebrow: `Nine Months, One Piece at a Time`,
-    heading: `9 months of us.`,
+    heading: `Happy 9 months, Meghu.`,
     body: `Nine months of memories, stupid jokes, little moments, and things I wish I could bottle up forever.`,
-    followUp: `I have something for you. But first, you'll have to put us back together.`,
+    followUp: `I have something for you. But first, you'll have to use that puzzle wolving brain of yours.`,
     button: `Let's begin ❤️`,
   },
 
