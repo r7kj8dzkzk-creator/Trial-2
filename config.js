@@ -64,13 +64,13 @@ window.ANNIVERSARY_CONFIG = {
   letter: {
     greeting: `To My coconut,`,
 
-    body: `Can't believe that i haven't found you a better nickname than 'coconut'. I like it though. Anyways i always felt i'm more expressive and vulnerable when i put it down on a paper because neither the pen nor the paper would judge me, hence this letter. As you know I have vulnerability issues and knowing this letter is a proof of me being one and its existence makes me uneasy BUT knowing it's gonna reach you oddly comforts me.
+    body: `Can't believe that i haven't found you a better nickname than 'coconut'. I like it though. Anyways I always felt I'm more expressive and vulnerable when i put it down on a paper because neither the pen nor the paper would judge me, hence this letter. As you know I have vulnerability issues and knowing this letter is a proof of me being one and its existence makes me uneasy BUT knowing it's gonna reach you oddly comforts me.
 Still surprising that I'm in a relationship with someone for this long and this wouldn't have happened if I never felt like changing my ways just to be better for YOU. I gotta say you helped me heal myself in some ways. The kindest thing a stranger has done to me was giving me your Instagram and there wasn't a single day I wasn't grateful for her.
 I like how you are always curious to get to know me more ever since we first texted, funny comebacks ( can we agree that some of mine rubbed off onto you?), talk to me every night no matter how tiring your day was or how busy you can get, considerate, make me part of your day even when we are far apart and shown interest in things that I like even though it's hard for you. Did I tell you how uninhibited and cute you are when you're drunk? So adorable.
 I miss the spontaneity we had when we both weren't at our homes.. those random calls and going to bed being on phone,mid-day check ins,ordering food for each other, etc. Wish I could go back in time to relive it once again.
 It might be difficult for you to do it often but when you ask or demand me for small things I love it and secretly wish you do it more and tried actively putting me inside your world 
 Yes, you do make me angry and get on my nerves like no one else, at times and press buttons I didnt know I had which I think is quite special knowing that not everyone sees this part of me.
-Deep down i don't know but I'm scared that you'll think this is all too much and won't reciprocate much
+Deep down i don't know but I'm scared that you'll think this is all too much and won't appreciate/reciprocate much.
 I know things aren't all lovey-dovey right now between us but I have the confidence we can get through this "down" phase of Us.
 Thank you for the stupid jokes, the late-night calls, the tiny moments nobody else would notice, and for being the person I want to tell everything to.
 I don't know exactly what the next chapter looks like. I just know I want you in it, in every single one.
