@@ -30,7 +30,7 @@ window.ANNIVERSARY_CONFIG = {
   // ───────── 3. OPENING SCREEN ─────────
   welcome: {
     eyebrow: `Nine Months, One Piece at a Time`,
-    heading: `Happy 9 months, Meghu.`,
+    heading: `Happy 9 months, .`,
     body: `Nine months of memories, stupid jokes, little moments, and things I wish I could bottle up forever.`,
     followUp: `I have something for you. But first, you'll have to use that puzzle solving brain of yours.`,
     button: `Let's begin ❤️`,
@@ -55,13 +55,13 @@ window.ANNIVERSARY_CONFIG = {
   },
 
   envelope: {
-    caption: ` Hopw you like it <3`,
+    caption: ` Hope you like it <3`,
     tapHint: `Tap to open`,
   },
 
   // ───────── 6. ✎✎✎ YOUR LETTER ✎✎✎ ─────────
   letter: {
-    greeting: `My love,`,
+    greeting: `My princess,`,
 
     body: `This is a placeholder letter. The real one is waiting for you to write it, so say everything here that you never quite find the words for out loud.
 
@@ -72,7 +72,7 @@ Thank you for the stupid jokes, the late-night calls, the tiny moments nobody el
 I don't know exactly what the next chapter looks like. I just know I want you in it, in every single one.`,
 
     signoff: `Yours loving,`,
-    signature: `[Sir Honorary Knight Vijwal]`,
+    signature: `[Sir Honorary Knight ]`,
 
     readAgainButton: `Read it again`,
     continueButton: `Continue ❤️`,
@@ -80,7 +80,7 @@ I don't know exactly what the next chapter looks like. I just know I want you in
 
   // ───────── 7. LAST SCREEN ─────────
   final: {
-    heading: `set the bar too hugh already for 9 months, pls keep your expectations low for one year.`,
+    heading: `set the bar too high already for 9 months, pls keep your expectations low for one year 😊.`,
     readLetterButton: `Read the letter again`,
     replayButton: `Replay the experience`,
   },
