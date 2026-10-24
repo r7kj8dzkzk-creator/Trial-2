@@ -83,7 +83,7 @@ If i could go back in time to the beginning, i would do it all over again includ
 
   // ───────── 7. LAST SCREEN ─────────
   final: {
-    heading: `set the bar too high already for 9 months, pls keep your expectations low for one year 😊.`,
+    heading: `set the bar too high already for 9 months, pls keep your expectations low for one year-versary 😊.`,
     readLetterButton: `Read the letter again`,
     replayButton: `Replay the experience`,
   },
