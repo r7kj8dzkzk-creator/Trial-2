@@ -38,8 +38,8 @@ window.ANNIVERSARY_CONFIG = {
 
   // ───────── 4. PUZZLE ─────────
   puzzle: {
-    defaultPieces: 72,   // 12, 24, 36 or 72
-    guide: `frame`, `lines`,
+    defaultPieces: 36,   // 12, 24, or 36 
+    guide: `frame`,
     prompt: `Drag each piece to where it belongs.`,
     messages: {
       25: `Look at you go.`,
