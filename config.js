@@ -13,7 +13,7 @@ window.ANNIVERSARY_CONFIG = {
 
   // ───────── 1. YOUR PHOTO ─────────
   photo: {
-    file: `photo.jpg.jpg`,
+    file: `photo.jpg`,
     alt: `The two of us, together`,
   },
 
